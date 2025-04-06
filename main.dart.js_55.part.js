@@ -1,34 +1,128 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_55",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,E,G,D={
-bS7(){return new D.uZ(null)},
-uZ:function uZ(d){this.a=d}},C,F
-A=c[0]
-B=c[2]
-E=c[49]
-G=c[58]
-D=a.updateHolder(c[16],D)
-C=c[57]
-F=c[41]
-D.uZ.prototype={
-dg(a2){var x=null,w="Default",v="Primary",u="Success",t="Info",s="Warn",r="Danger",q="Dark",p="Default With Icon",o="Primary With Icon",n="Success With Icon",m="Info With Icon",l="Warn With Icon",k="Danger With Icon",j="Dark With Icon",i="primary",h="success",g="info",f="warn",e="danger",d="dark",a0=y.h,a1=y.e
-return A.ab(A.c([new F.qH(A.a4(a2,B.q,a0).grB(),A.ab(A.c([E.Z,A.hw(A.c([new A.I(100,x,A.aV(x,0,w,x,x,x,x,x),x),new A.I(100,x,A.aV(x,5,w,x,x,x,x,x),x),new A.I(100,x,A.aV(x,30,w,x,x,x,x,x),x),new A.I(100,x,A.aV(B.bZ,5,w,B.k,x,x,B.bZ,x),x)],a1),B.N,B.bh,16,20),B.x,A.hw(A.c([new A.I(100,x,A.aV(x,0,v,x,x,x,x,i),x),new A.I(100,x,A.aV(x,5,v,x,x,x,x,i),x),new A.I(100,x,A.aV(x,30,v,x,x,x,x,i),x),new A.I(100,x,A.aV(A.D(a2).ax.b,5,v,B.k,x,x,A.D(a2).ax.b,x),x)],a1),B.N,B.bh,16,20),B.x,A.hw(A.c([new A.I(100,x,A.aV(x,0,u,x,x,x,x,h),x),new A.I(100,x,A.aV(x,5,u,x,x,x,x,h),x),new A.I(100,x,A.aV(x,30,u,x,x,x,x,h),x),new A.I(100,x,A.aV(B.dp,5,u,B.k,x,x,B.dp,x),x)],a1),B.N,B.bh,16,20),B.x,A.hw(A.c([new A.I(100,x,A.aV(x,0,t,x,x,x,x,g),x),new A.I(100,x,A.aV(x,5,t,x,x,x,x,g),x),new A.I(100,x,A.aV(x,30,t,x,x,x,x,g),x),new A.I(100,x,A.aV(B.e8,5,t,B.k,x,x,B.e8,x),x)],a1),B.N,B.bh,16,20),B.x,A.hw(A.c([new A.I(100,x,A.aV(x,0,s,x,x,x,x,f),x),new A.I(100,x,A.aV(x,5,s,x,x,x,x,f),x),new A.I(100,x,A.aV(x,30,s,x,x,x,x,f),x),new A.I(100,x,A.aV(B.eB,5,s,B.k,x,x,B.eB,x),x)],a1),B.N,B.bh,16,20),B.x,A.hw(A.c([new A.I(100,x,A.aV(x,0,r,x,x,x,x,e),x),new A.I(100,x,A.aV(x,5,r,x,x,x,x,e),x),new A.I(100,x,A.aV(x,30,r,x,x,x,x,e),x),new A.I(100,x,A.aV(B.dN,5,r,B.k,x,x,B.dN,x),x)],a1),B.N,B.bh,16,20),B.x,A.hw(A.c([new A.I(100,x,A.aV(x,0,q,x,x,x,x,d),x),new A.I(100,x,A.aV(x,5,q,x,x,x,x,d),x),new A.I(100,x,A.aV(x,30,q,x,x,x,x,d),x),new A.I(100,x,A.aV(B.aE,5,q,B.k,x,x,B.aE,x),x)],a1),B.N,B.bh,16,20),E.Z],a1),B.j,B.f,B.h),x),E.Z,new F.qH(A.a4(a2,B.q,a0).gqD(),A.ab(A.c([E.Z,A.hw(A.c([new A.I(180,x,A.aV(x,0,p,x,C.oC,x,x,x),x),new A.I(180,x,A.aV(x,5,p,x,C.oC,x,x,x),x),new A.I(180,x,A.aV(x,30,p,x,C.oC,x,x,x),x),new A.I(180,x,A.aV(B.bZ,5,p,B.k,C.oC,x,B.bZ,x),x)],a1),B.N,B.bh,16,20),B.x,A.hw(A.c([new A.I(180,x,A.aV(x,0,o,x,C.y3,x,x,i),x),new A.I(180,x,A.aV(x,5,o,x,C.y3,x,x,i),x),new A.I(180,x,A.aV(x,30,o,x,C.y3,x,x,i),x),new A.I(180,x,A.aV(B.bY,5,o,B.k,C.acS,x,B.bY,x),x)],a1),B.N,B.bh,16,20),B.x,A.hw(A.c([new A.I(180,x,A.aV(x,0,n,x,C.ef,x,x,h),x),new A.I(180,x,A.aV(x,5,n,x,C.ef,x,x,h),x),new A.I(180,x,A.aV(x,30,n,x,C.ef,x,x,h),x),new A.I(180,x,A.aV(B.dp,5,n,B.k,C.acN,x,B.dp,x),x)],a1),B.N,B.bh,16,20),B.x,A.hw(A.c([new A.I(180,x,A.aV(x,0,m,x,C.ef,x,x,g),x),new A.I(180,x,A.aV(x,5,m,x,C.ef,x,x,g),x),new A.I(180,x,A.aV(x,30,m,x,C.ef,x,x,g),x),new A.I(180,x,A.aV(B.e8,5,m,B.k,C.acR,x,B.e8,x),x)],a1),B.N,B.bh,16,20),B.x,A.hw(A.c([new A.I(180,x,A.aV(x,0,l,x,C.ef,x,x,f),x),new A.I(180,x,A.aV(x,5,l,x,C.ef,x,x,f),x),new A.I(180,x,A.aV(x,30,l,x,C.ef,x,x,f),x),new A.I(180,x,A.aV(B.eB,5,l,B.k,C.acM,x,B.eB,x),x)],a1),B.N,B.bh,16,20),B.x,A.hw(A.c([new A.I(180,x,A.aV(x,0,k,x,C.ef,x,x,e),x),new A.I(180,x,A.aV(x,5,k,x,C.ef,x,x,e),x),new A.I(180,x,A.aV(x,30,k,x,C.ef,x,x,e),x),new A.I(180,x,A.aV(B.dN,5,k,B.k,C.acJ,x,B.dN,x),x)],a1),B.N,B.bh,16,20),B.x,A.hw(A.c([new A.I(180,x,A.aV(x,0,j,x,A.bO(C.oz,B.k,x,x,x),x,x,d),x),new A.I(180,x,A.aV(x,5,j,x,A.bO(C.oz,B.k,x,x,x),x,x,d),x),new A.I(180,x,A.aV(x,30,j,x,A.bO(C.oz,B.k,x,x,x),x,x,d),x),new A.I(180,x,A.aV(B.aE,5,j,B.k,A.bO(C.oz,B.aE,x,x,x),x,B.aE,x),x)],a1),B.N,B.bh,16,20),E.Z],a1),B.j,B.f,B.h),x),G.AE],a1),B.j,B.f,B.h)},
-fW(d){return A.a4(d,B.q,y.h).gqE()}}
-var z=a.updateTypes(["d(v)"]);(function installTearOffs(){var x=a._instance_1u
-x(D.uZ.prototype,"gf0","dg",0)})();(function inheritance(){var x=a.inherit
-x(D.uZ,A.eE)})()
-A.dD(b.typeUniverse,JSON.parse('{"uZ":{"K":[],"d":[]}}'))
-var y={h:A.P("e7"),e:A.P("o<d>")};(function constants(){C.oz=new A.br(57948,"MaterialIcons",null,!1)
-C.y2=new A.br(61464,"MaterialIcons",null,!1)
-C.y3=new A.dk(C.y2,null,B.k,null,null)
-C.lK=new A.br(984424,"MaterialIcons",null,!1)
-C.acJ=new A.dk(C.lK,null,B.dN,null,null)
-C.acM=new A.dk(C.lK,null,B.eB,null,null)
-C.acN=new A.dk(C.lK,null,B.dp,null,null)
-C.acR=new A.dk(C.lK,null,B.e8,null,null)
-C.oC=new A.dk(C.y2,null,B.bZ,null,null)
-C.acS=new A.dk(C.y2,null,B.bY,null,null)
-C.ef=new A.dk(C.lK,null,B.k,null,null)})()};
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,B,A,G,D={
+bYD(){return new D.vX(null)},
+vX:function vX(d){this.a=d},
+OG:function OG(d){this.a=d},
+Xh:function Xh(d){var _=this
+_.d=d
+_.e="Press the button to fetch data"
+_.c=_.a=null},
+blA:function blA(d,e){this.a=d
+this.b=e},
+aPn:function aPn(d){this.a=d}},C,F,E
+J=c[1]
+B=c[0]
+A=c[2]
+G=c[59]
+D=a.updateHolder(c[10],D)
+C=c[83]
+F=c[33]
+E=c[84]
+D.vX.prototype={
+fG(d){return"Invoice"},
+d7(d){return new D.OG(null)}}
+D.OG.prototype={
+ac(){return new D.Xh(new D.aPn(F.bGP(null)))}}
+D.Xh.prototype={
+OU(){var x=0,w=B.Q(y.f),v=this,u
+var $async$OU=B.M(function(d,e){if(d===1)return B.N(e,w)
+while(true)switch(x){case 0:u=D
+x=2
+return B.Y(v.d.OV(),$async$OU)
+case 2:v.V(new u.blA(v,e))
+return B.O(null,w)}})
+return B.P($async$OU,w)},
+B(d){var x=null,w=y.e,v=B.c5(B.cV(B.a4(B.b([B.F("API Response:",x,x,x,x,x,B.aW(x,x,x,x,x,x,x,x,x,x,x,18,x,x,A.al,x,x,!0,x,x,x,x,x,x,x,x),x,x,x),new B.D(x,10,x,x),B.F(this.e,x,x,x,x,x,x,x,x,x),new B.D(x,20,x,x),B.aU(x,x,"Fetch Data",x,x,this.gbbi(),x,x)],w),A.i,A.f,A.M),x,x,A.ad,x,x),x,x),u=B.dV(A.dR,1)
+return B.a4(B.b([v,A.a8,B.cV(new B.a8(A.bB,B.a4(B.b([C.au3,A.a8,B.af(x,B.ab(B.b([B.jK("assets/product/product-thumb.png",x,80,x,80),G.bK,C.a7Y,A.cJ,C.aDD,A.cH,C.aDs],w),A.i,A.f,A.h,x),A.k,x,x,new B.aX(x,x,u,x,x,x,A.F),x,x,x,x,A.ad,x,x,x),A.a8,B.ab(B.b([C.a7X,A.cH,C.a82,A.cJ,new B.D(400,x,B.a4(B.b([C.au4,A.aD,C.au1,A.aD,B.af(x,x,A.k,A.dR,x,x,x,1,x,x,x,x,x,x),A.aD,C.au2],w),A.z,A.f,A.h),x)],w),A.i,A.f,A.h,x),A.a8,B.ab(B.b([A.cJ,new B.D(150,x,B.aU(x,x,"Download Invoice",x,x,x,x,"primary"),x),A.d2,new B.D(150,x,B.aU(x,x,"Send Invoice",x,x,x,x,"success"),x)],w),A.i,A.eq,A.h,x)],w),A.i,A.f,A.h),x),x,x,x,x,x)],w),A.i,A.f,A.h)}}
+D.aPn.prototype={
+OV(){var x=0,w=B.Q(y.g),v,u=2,t,s=this,r,q,p,o,n
+var $async$OV=B.M(function(d,e){if(d===1){t=e
+x=u}while(true)switch(x){case 0:u=4
+x=7
+return B.Y(s.a.bj7(0,"http://192.168.254.196:3001/api",null,null,null,F.bGR("GET",null),null,y.b),$async$OV)
+case 7:r=e
+p=J.bG(r.a)
+v=p
+x=1
+break
+u=2
+x=6
+break
+case 4:u=3
+n=t
+q=B.aH(n)
+p=B.o(q)
+v="Error: "+p
+x=1
+break
+x=6
+break
+case 3:x=2
+break
+case 6:case 1:return B.O(v,w)
+case 2:return B.N(t,w)}})
+return B.P($async$OV,w)}}
+var z=a.updateTypes(["d(v)","ao<~>()"])
+D.blA.prototype={
+$0(){this.a.e=this.b},
+$S:0};(function installTearOffs(){var x=a._instance_1u,w=a._instance_0u
+x(D.vX.prototype,"geZ","d7",0)
+w(D.Xh.prototype,"gbbi","OU",1)})();(function inheritance(){var x=a.inherit
+x(D.vX,B.eD)
+x(D.OG,B.V)
+x(D.Xh,B.a0)
+x(D.blA,B.en)
+x(D.aPn,B.H)})()
+B.d4(b.typeUniverse,JSON.parse('{"OG":{"V":[],"d":[]},"vX":{"I":[],"d":[]},"Xh":{"a0":["OG"]}}'))
+var y={e:B.E("n<d>"),g:B.E("f"),b:B.E("@"),f:B.E("~")};(function constants(){var x=a.makeConstList
+C.aDW=new B.ba("Shipping Method",null,E.fp,null,null,null,null,null,null,null,null)
+C.aDl=new B.ba("FedEx - Take up to 3",null,A.dr,null,null,null,null,null,null,null,null)
+C.aDC=new B.ba("working days.",null,A.mU,null,null,null,null,null,null,null,null)
+C.aiG=B.b(x([C.aDW,A.aQ,C.aDl,A.aQ,C.aDC]),y.e)
+C.a7X=new B.jx(A.E,A.f,A.h,A.z,null,A.bN,null,0,C.aiG,null)
+C.aDK=new B.ba("Mist Black Triblend",null,null,null,null,null,null,null,null,null,null)
+C.aAx=new B.L(!0,null,null,null,null,null,13,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+C.aDw=new B.ba("Color: White  Size: Medium",null,C.aAx,null,null,null,null,null,null,null,null)
+C.afU=B.b(x([C.aDK,C.aDw]),y.e)
+C.a7Y=new B.jx(A.E,A.f,A.h,A.z,null,A.bN,null,0,C.afU,null)
+C.aDe=new B.ba("Payment Method",null,E.fp,null,null,null,null,null,null,null,null)
+C.aDV=new B.ba("Apply Pay Mastercard",null,A.dr,null,null,null,null,null,null,null,null)
+C.aCI=new B.ba("**** **** **** 5874",null,A.mU,null,null,null,null,null,null,null,null)
+C.akS=B.b(x([C.aDe,A.aQ,C.aDV,A.aQ,C.aCI]),y.e)
+C.a82=new B.jx(A.E,A.f,A.h,A.z,null,A.bN,null,0,C.akS,null)
+C.aDa=new B.ba("Shipping Cost ",null,null,null,null,null,null,null,null,null,null)
+C.Yr=new B.D(100,null,null,null)
+C.aDh=new B.ba("(+) $10.00",null,null,A.l3,null,null,null,null,null,null,null)
+C.aba=new B.l8(1,A.ef,C.aDh,null)
+C.aiJ=B.b(x([C.aDa,C.Yr,C.aba]),y.e)
+C.au1=new B.tG(A.H,A.f,A.h,A.i,null,A.bN,null,0,C.aiJ,null)
+C.aDJ=new B.ba("Total Payable ",null,null,null,null,null,null,null,null,null,null)
+C.aCZ=new B.ba("$130.00",null,null,A.l3,null,null,null,null,null,null,null)
+C.ab8=new B.l8(1,A.ef,C.aCZ,null)
+C.ai_=B.b(x([C.aDJ,C.ab8]),y.e)
+C.au2=new B.tG(A.H,A.f,A.h,A.i,null,A.bN,null,0,C.ai_,null)
+C.aD1=new B.ba("From",null,A.dr,null,null,null,null,null,null,null,null)
+C.aD4=new B.ba("Roger Culhane",null,E.fp,null,null,null,null,null,null,null,null)
+C.Z6=new B.ba("Email: contact@example.com",null,A.dr,null,null,null,null,null,null,null,null)
+C.aDI=new B.ba("Address: 2972 Westheimer Rd. Santa Ana.",null,A.dr,null,null,null,null,null,null,null,null)
+C.ahr=B.b(x([C.aD1,A.aQ,C.aD4,A.aQ,C.Z6,A.aQ,C.aDI]),y.e)
+C.a7Z=new B.jx(A.E,A.f,A.h,A.z,null,A.bN,null,0,C.ahr,null)
+C.aD5=new B.ba("To",null,A.dr,null,null,null,null,null,null,null,null)
+C.aDv=new B.ba("Cristofer Levin",null,E.fp,null,null,null,null,null,null,null,null)
+C.aDG=new B.ba("Address: New York, USA 2707 Davis Anenue",null,A.dr,null,null,null,null,null,null,null,null)
+C.ak4=B.b(x([C.aD5,A.aQ,C.aDv,A.aQ,C.Z6,A.aQ,C.aDG]),y.e)
+C.a81=new B.jx(A.E,A.f,A.h,A.z,null,A.bN,null,0,C.ak4,null)
+C.aDy=new B.ba("Order #15478",null,E.fp,null,null,null,null,null,null,null,null)
+C.agZ=B.b(x([C.a7Z,A.cH,C.a81,A.cJ,C.aDy]),y.e)
+C.au3=new B.tG(A.H,A.f,A.h,A.z,null,A.bN,null,0,C.agZ,null)
+C.aD7=new B.ba("Subtotal",null,null,null,null,null,null,null,null,null,null)
+C.aCQ=new B.ba("$120.00",null,null,A.l3,null,null,null,null,null,null,null)
+C.ab9=new B.l8(1,A.ef,C.aCQ,null)
+C.agY=B.b(x([C.aD7,C.Yr,C.ab9]),y.e)
+C.au4=new B.tG(A.H,A.f,A.h,A.i,null,A.bN,null,0,C.agY,null)
+C.aDs=new B.ba("$120.00",null,null,null,null,null,null,null,null,null,null)
+C.aDD=new B.ba("Qty: 01",null,null,null,null,null,null,null,null,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_55",e:"endPart",h:b})})($__dart_deferred_initializers__,"rQWXX3YDJTc6Q61YzuddsIbckU0=");
+a.eventLog.push({p:"main.dart.js_55",e:"endPart",h:b})})($__dart_deferred_initializers__,"oTqJcVtRUajfXMiTRw61mvHMfVM=");
