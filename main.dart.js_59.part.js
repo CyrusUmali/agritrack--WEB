@@ -1,41 +1,37 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_59",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,D,G,E={
-bYx(){return new E.vU(null)},
-vU:function vU(d){this.a=d}},A,F
-B=c[0]
-C=c[2]
-D=c[51]
-G=c[76]
-E=a.updateHolder(c[11],E)
-A=c[82]
-F=c[66]
-E.vU.prototype={
-fG(d){return"Inbox"},
-d7(d){var x=null,w=y.a
-return B.cV(B.ab(B.b([new B.D(150,x,B.m7(B.b([B.af(C.aB,B.F("Compose",x,x,x,x,x,B.aW(x,x,C.m,x,x,x,x,x,x,x,x,x,x,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x,x),C.k,x,x,new B.aX(C.a2,x,x,B.b5(4),x,x,C.F),x,30,x,x,new B.a7(16,0,16,0),x,x,x),C.aQ,A.afA,C.aQ,A.afw,C.aQ,A.afu,C.aQ,A.aft,C.aQ,A.afy,C.aQ,A.afx,new B.D(x,10,x,x),A.afv],w),x,C.ad,x,x,C.E,!1),x),G.Zq,B.as(B.a4(B.b([F.AI,C.lK,F.AI,C.lK,B.as(B.op(x,this.gbej(),20,x,x,x,x,C.E,!1),1)],w),C.i,C.f,C.h),1)],w),C.i,C.f,C.h,x),x,x,x,x,x)},
-bel(d,e){return A.afz}}
-var z=a.updateTypes(["d(v)","d(v,j)"]);(function installTearOffs(){var x=a._instance_1u,w=a._instance_2u
-var v
-x(v=E.vU.prototype,"geZ","d7",0)
-w(v,"gbej","bel",1)})();(function inheritance(){var x=a.inherit
-x(E.vU,B.eD)})()
-B.d4(b.typeUniverse,JSON.parse('{"vU":{"I":[],"d":[]}}'))
-var y={a:B.E("n<d>")};(function constants(){A.aCN=new B.ba("Sent",null,null,null,null,null,null,null,null,null,null)
-A.aft=new D.ln(null,A.aCN,null,null,!1,null,null,null,null,null,!0,null,null,!1,null,null,!1,null,null,null,!0,null)
-A.aCE=new B.ba("Snoozed",null,null,null,null,null,null,null,null,null,null)
-A.afu=new D.ln(null,A.aCE,null,null,!1,null,null,null,null,null,!0,null,null,!1,null,null,!1,null,null,null,!0,null)
-A.aDn=new B.ba("Trash",null,null,null,null,null,null,null,null,null,null)
-A.afv=new D.ln(null,A.aDn,null,null,!1,null,null,null,null,null,!0,null,null,!1,null,null,!1,null,null,null,!0,null)
-A.aCL=new B.ba("Started",null,null,null,null,null,null,null,null,null,null)
-A.afw=new D.ln(null,A.aCL,null,null,!1,null,null,null,null,null,!0,null,null,!1,null,null,!1,null,null,null,!0,null)
-A.aDd=new B.ba("Spam",null,null,null,null,null,null,null,null,null,null)
-A.afx=new D.ln(null,A.aDd,null,null,!1,null,null,null,null,null,!0,null,null,!1,null,null,!1,null,null,null,!0,null)
-A.aDm=new B.ba("Drafts",null,null,null,null,null,null,null,null,null,null)
-A.afy=new D.ln(null,A.aDm,null,null,!1,null,null,null,null,null,!0,null,null,!1,null,null,!1,null,null,null,!0,null)
-A.afz=new D.ln(null,null,null,null,!1,null,null,null,null,null,!0,null,null,!1,null,null,!1,null,null,null,!0,null)
-A.aDH=new B.ba("Inbox",null,null,null,null,null,null,null,null,null,null)
-A.afA=new D.ln(null,A.aDH,null,null,!1,null,null,null,null,null,!0,null,null,!1,null,null,!1,null,null,null,!0,null)})()};
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,E,F,G,D,C={
+c6v(){return new C.xG(null)},
+xG:function xG(d){this.a=d},
+b3W:function b3W(d){this.a=d}}
+A=c[0]
+B=c[2]
+E=c[75]
+F=c[58]
+G=c[67]
+D=c[74]
+C=a.updateHolder(c[9],C)
+C.xG.prototype={
+dk(d){var x=null,w=A.be(d,x,y.h).w,v=y.p,u=A.a3(d,B.N,v),t=y.e
+return A.cc(A.d6(A.aa(A.a([A.at(A.a_(A.a([A.D(u.goz(u),x,x,x,x,x,B.mw,x,x,x),B.R,A.D(A.a3(d,B.N,v).goa(),x,x,x,x,x,x,x,x,x),B.R,new A.E(200,300,A.kq("assets/signin/main.svg",x,x,"",x),x)],t),B.v,B.q,B.r),1),E.my,A.at(this.ad7(d),1)],t),B.v,B.q,B.r,x),x,x,D.AU,x,w.a.a*0.8),x,x)},
+iR(d){var x=null
+return A.cc(A.d6(this.ad7(d),x,x,D.AV,x,x),x,x)},
+ad7(d){var x=null,w=y.p,v=A.D(A.a3(d,B.N,w).gtP(),x,x,x,x,x,B.mw,x,x,x),u=A.D(A.a3(d,B.N,w).grL(),x,x,x,x,x,x,x,x,x),t=A.a3(d,B.N,w).glE()
+return new A.a8(D.B_,A.a_(A.a([v,B.bd,u,B.aK,F.f8(x,x,A.a3(d,B.N,w).glF(),x,B.oB,t,1,x,A.kq("assets/signin/email.svg",x,22,x,22),x),B.aK,G.b6(x,x,A.a3(d,B.N,w).gqH(),x,x,new C.b3W(d),x,"primary")],y.e),B.V,B.q,B.r),x)},
+gUt(){return!1},
+garJ(){return!0}}
+var z=a.updateTypes(["d(x)"])
+C.b3W.prototype={
+$0(){var x=y.a
+A.aN(this.a,!1).xE("/",x,x)},
+$S:0};(function installTearOffs(){var x=a._instance_1u
+var w
+x(w=C.xG.prototype,"gfd","dk",0)
+x(w,"gly","iR",0)})();(function inheritance(){var x=a.inherit
+x(C.xG,A.eG)
+x(C.b3W,A.eh)})()
+A.cN(b.typeUniverse,JSON.parse('{"xG":{"H":[],"d":[]}}'))
+var y={p:A.C("ey"),e:A.C("k<d>"),h:A.C("eN"),a:A.C("J?")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_59",e:"endPart",h:b})})($__dart_deferred_initializers__,"932cSpt+xvXHIvAjTGB7s5VO9XI=");
+a.eventLog.push({p:"main.dart.js_59",e:"endPart",h:b})})($__dart_deferred_initializers__,"f8UCwAC5rm98o/TDoiZt95mPFZc=");

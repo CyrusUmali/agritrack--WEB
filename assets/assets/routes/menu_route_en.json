@@ -50,6 +50,11 @@
         "path": "/recommendation"
       },
       {
+        "icon": "assets/sidebar/reports.svg",
+        "menuName": "Reports",
+        "path": "/reports"
+      },
+      {
         "icon": "assets/sidebar/calendar.svg",
         "menuName": "Calendar",
         "path": "/calendar"
