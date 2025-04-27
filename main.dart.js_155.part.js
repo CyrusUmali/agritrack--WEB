@@ -1,67 +1,21 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_155",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,B,A,C={anH:function anH(d,e,f,g,h,i,j){var _=this
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,A={
+hf(d,e,f,g,h){return new A.nP(e,g,h,d,f)},
+nP:function nP(d,e,f,g,h){var _=this
 _.a=d
 _.b=e
 _.c=f
 _.d=g
-_.e=h
-_.f=i
-_.r=j}}
-J=c[1]
+_.e=h}}
 B=c[0]
-A=c[2]
-C=a.updateHolder(c[41],C)
-C.anH.prototype={
-gBm(){var y,x,w=this,v=w.a,u=v.a,t=w.b
-if(!t.a.k(0,u)||!w.c.a.k(0,u)||!w.d.a.k(0,u)||!w.e.a.k(0,u)||!w.f.a.k(0,u))return!1
-y=v.b
-if(t.b!==y||w.c.b!==y||w.d.b!==y||w.e.b!==y||w.f.b!==y)return!1
-x=v.c
-if(t.c!==x||w.c.c!==x||w.d.c!==x||w.e.c!==x||w.f.c!==x)return!1
-return!0},
-az5(d,e,f,g){var y,x,w,v,u,t,s,r,q=this,p=J.af(f)
-if(p.gcE(f)||J.fj(g)){y=$.a5()
-x=y.ar()
-w=y.bF()
-if(p.gcE(f)){y=q.f
-switch(y.c.a){case 1:x.sK(0,y.a)
-x.sbn(y.b)
-x.sbr(0,A.at)
-w.hB(0)
-for(p=p.gaO(f),y=e.a,v=e.b,u=e.d;p.D();){t=y+p.ga2(p)
-w.bM(0,t,v)
-w.aq(0,t,u)}d.bl(w,x)
-break
-case 0:break}}p=J.af(g)
-if(p.gcE(g)){y=q.e
-switch(y.c.a){case 1:x.sK(0,y.a)
-x.sbn(y.b)
-x.sbr(0,A.at)
-w.hB(0)
-for(p=p.gaO(g),y=e.a,v=e.b,u=e.c;p.D();){t=v+p.ga2(p)
-w.bM(0,y,t)
-w.aq(0,u,t)}d.bl(w,x)
-break
-case 0:break}}}p=!q.gBm()||q.r.k(0,A.bF)
-y=q.a
-if(p)B.c_s(d,e,q.c,q.d,q.b,y)
-else{s=q.r.fU(e)
-r=s.fZ(-y.b)
-x=$.a5().ar()
-x.sK(0,y.a)
-d.SO(s,r,x)}},
-k(d,e){var y=this
-if(e==null)return!1
-if(y===e)return!0
-if(J.ah(e)!==B.z(y))return!1
-return e instanceof C.anH&&e.a.k(0,y.a)&&e.b.k(0,y.b)&&e.c.k(0,y.c)&&e.d.k(0,y.d)&&e.e.k(0,y.e)&&e.f.k(0,y.f)&&e.r.k(0,y.r)},
-gC(d){var y=this
-return B.a8(y.a,y.b,y.c,y.d,y.e,y.f,y.r,A.b,A.b,A.b,A.b,A.b,A.b,A.b,A.b,A.b,A.b,A.b,A.b,A.b)},
-l(d){var y=this
-return"TableBorder("+y.a.l(0)+", "+y.b.l(0)+", "+y.c.l(0)+", "+y.d.l(0)+", "+y.e.l(0)+", "+y.f.l(0)+", "+y.r.l(0)+")"}}
+A=a.updateHolder(c[39],A)
+A.nP.prototype={
+gbC(d){return this.b}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(C.anH,B.Q)})()};
+y(A.nP,B.Q)})();(function lazyInitializers(){var y=a.lazy
+y($,"cEg","bVC",()=>{var x="Fishery",w="Livestock",v="HVC"
+return B.a([A.hf("High-quality rice production",1,"https://thafd.bing.com/th/id/OIP.cvWZzHTCmAdsRMSgGWQXrwHaHa?w=185&h=185&c=7&r=0&o=7&cb=iwp1&dpr=1.3&pid=1.7&rm=3","Rice","Rice"),A.hf("Premium corn harvest",2,"https://tse4.mm.bing.net/th/id/OIP.gtgRbFm5Qf-EbDNjGHQ4GQHaF7?cb=iwp1&rs=1&pid=ImgDetMain","Corn","Corn"),A.hf("Freshwater tilapia fish",3,"https://www.balisafarimarinepark.com/wp-content/uploads/2022/11/tilapia-e1645622421681.jpg","Tilapia",x),A.hf("Fresh carp fish",4,"https://thafd.bing.com/th/id/OIP.PpypTVC--BDyebIxgevHQwHaE8?w=221&h=180&c=7&r=0&o=7&cb=iwp1&dpr=1.3&pid=1.7&rm=3","Karpa",x),A.hf("Milkfish production",5,"https://thafd.bing.com/th/id/OIP.rLnyzML7mMNJCdEB874LGQHaD4?w=285&h=180&c=7&r=0&o=7&cb=iwp1&dpr=1.3&pid=1.7&rm=3","Bangus",x),A.hf("Pangasius fish farming",6,"https://example.com/pangasius.jpg","Pangasius",x),A.hf("Hammerhead fish variety",7,"https://example.com/hammerhead.jpg","Hammerhead",x),A.hf("Beef cattle farming",8,"https://thafd.bing.com/th/id/OIP.E5U7VwqO02NhJUyd1nMDSAHaFl?w=247&h=185&c=7&r=0&o=7&cb=iwp1&dpr=1.3&pid=1.7&rm=3","Cow",w),A.hf("Water buffalo production",9,"https://example.com/carabao.jpg","Carabao",w),A.hf("Horse breeding",10,"https://example.com/horse.jpg","Horse",w),A.hf("Goat farming",11,"https://example.com/goat.jpg","Goat",w),A.hf("Sheep husbandry",12,"https://example.com/sheep.jpg","Sheep",w),A.hf("Poultry farming",13,"https://example.com/chicken.jpg","Chicken",w),A.hf("Swine production",14,"https://example.com/pig.jpg","Pig",w),A.hf("Wild boar farming",15,"https://example.com/boar.jpg","Boar",w),A.hf("Certified organic vegetables",16,"https://example.com/organic.jpg","Organic Vegetables","Organic"),A.hf("Premium mango production",17,"https://example.com/mango.jpg","Mango",v),A.hf("Bitter melon cultivation",18,"https://example.com/ampalaya.jpg","Ampalaya",v),A.hf("Eggplant farming",19,"https://example.com/eggplant.jpg","Eggplant",v),A.hf("Okra production",20,"https://example.com/okra.jpg","Okra",v),A.hf("Squash cultivation",21,"https://example.com/squash.jpg","Squash",v),A.hf("String beans production",22,"https://example.com/sitao.jpg","Sitao",v),A.hf("Tomato farming",23,"https://example.com/tomato.jpg","Tomato",v),A.hf("Sponge gourd cultivation",24,"https://example.com/patola.jpg","Patola",v),A.hf("Bottle gourd production",25,"https://example.com/upo.jpg","Upo",v),A.hf("Cucumber farming",26,"https://example.com/cucumber.jpg","Cucumber",v)],B.S("l<nP>"))})})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_155",e:"endPart",h:b})})($__dart_deferred_initializers__,"izrqRptCR3E/yRoIruDdyXvY7VM=");
+a.eventLog.push({p:"main.dart.js_155",e:"endPart",h:b})})($__dart_deferred_initializers__,"o6sMqIZxymiOzpudJqLWdT4GJek=");
