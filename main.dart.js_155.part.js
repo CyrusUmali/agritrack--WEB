@@ -1,21 +1,56 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_155",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,A={
-hf(d,e,f,g,h){return new A.nP(e,g,h,d,f)},
-nP:function nP(d,e,f,g,h){var _=this
-_.a=d
-_.b=e
-_.c=f
-_.d=g
-_.e=h}}
-B=c[0]
-A=a.updateHolder(c[39],A)
-A.nP.prototype={
-gbC(d){return this.b}}
-var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.nP,B.Q)})();(function lazyInitializers(){var y=a.lazy
-y($,"cEg","bVC",()=>{var x="Fishery",w="Livestock",v="HVC"
-return B.a([A.hf("High-quality rice production",1,"https://thafd.bing.com/th/id/OIP.cvWZzHTCmAdsRMSgGWQXrwHaHa?w=185&h=185&c=7&r=0&o=7&cb=iwp1&dpr=1.3&pid=1.7&rm=3","Rice","Rice"),A.hf("Premium corn harvest",2,"https://tse4.mm.bing.net/th/id/OIP.gtgRbFm5Qf-EbDNjGHQ4GQHaF7?cb=iwp1&rs=1&pid=ImgDetMain","Corn","Corn"),A.hf("Freshwater tilapia fish",3,"https://www.balisafarimarinepark.com/wp-content/uploads/2022/11/tilapia-e1645622421681.jpg","Tilapia",x),A.hf("Fresh carp fish",4,"https://thafd.bing.com/th/id/OIP.PpypTVC--BDyebIxgevHQwHaE8?w=221&h=180&c=7&r=0&o=7&cb=iwp1&dpr=1.3&pid=1.7&rm=3","Karpa",x),A.hf("Milkfish production",5,"https://thafd.bing.com/th/id/OIP.rLnyzML7mMNJCdEB874LGQHaD4?w=285&h=180&c=7&r=0&o=7&cb=iwp1&dpr=1.3&pid=1.7&rm=3","Bangus",x),A.hf("Pangasius fish farming",6,"https://example.com/pangasius.jpg","Pangasius",x),A.hf("Hammerhead fish variety",7,"https://example.com/hammerhead.jpg","Hammerhead",x),A.hf("Beef cattle farming",8,"https://thafd.bing.com/th/id/OIP.E5U7VwqO02NhJUyd1nMDSAHaFl?w=247&h=185&c=7&r=0&o=7&cb=iwp1&dpr=1.3&pid=1.7&rm=3","Cow",w),A.hf("Water buffalo production",9,"https://example.com/carabao.jpg","Carabao",w),A.hf("Horse breeding",10,"https://example.com/horse.jpg","Horse",w),A.hf("Goat farming",11,"https://example.com/goat.jpg","Goat",w),A.hf("Sheep husbandry",12,"https://example.com/sheep.jpg","Sheep",w),A.hf("Poultry farming",13,"https://example.com/chicken.jpg","Chicken",w),A.hf("Swine production",14,"https://example.com/pig.jpg","Pig",w),A.hf("Wild boar farming",15,"https://example.com/boar.jpg","Boar",w),A.hf("Certified organic vegetables",16,"https://example.com/organic.jpg","Organic Vegetables","Organic"),A.hf("Premium mango production",17,"https://example.com/mango.jpg","Mango",v),A.hf("Bitter melon cultivation",18,"https://example.com/ampalaya.jpg","Ampalaya",v),A.hf("Eggplant farming",19,"https://example.com/eggplant.jpg","Eggplant",v),A.hf("Okra production",20,"https://example.com/okra.jpg","Okra",v),A.hf("Squash cultivation",21,"https://example.com/squash.jpg","Squash",v),A.hf("String beans production",22,"https://example.com/sitao.jpg","Sitao",v),A.hf("Tomato farming",23,"https://example.com/tomato.jpg","Tomato",v),A.hf("Sponge gourd cultivation",24,"https://example.com/patola.jpg","Patola",v),A.hf("Bottle gourd production",25,"https://example.com/upo.jpg","Upo",v),A.hf("Cucumber farming",26,"https://example.com/cucumber.jpg","Cucumber",v)],B.S("l<nP>"))})})()};
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C,B,D,E,A={
+cqO(){return new A.z8(null)},
+z8:function z8(d){this.a=d},
+b8B:function b8B(d){this.a=d},
+b8C:function b8C(d){this.a=d},
+b8z:function b8z(d){this.a=d},
+b8A:function b8A(d){this.a=d},
+b8D:function b8D(d){this.a=d},
+b8E:function b8E(d){this.a=d},
+b8F:function b8F(d){this.a=d}},F,G
+C=c[0]
+B=c[2]
+D=c[62]
+E=c[89]
+A=a.updateHolder(c[28],A)
+F=c[88]
+G=c[54]
+A.z8.prototype={
+fR(d){return"Modal"},
+ds(d){return C.V(C.a([new G.ug("Modal Toast",this.aWs(d),null),B.b1],y.e),B.t,B.q,B.r,B.y)},
+aWs(d){var x=null
+return C.V(C.a([C.bd(B.cJ,5,"Simple Modal",B.A,x,new A.b8B(d),B.cJ,x),B.b1,C.bd(B.cJ,5,"Modal with footer",B.A,x,new A.b8C(d),B.cJ,x),B.b1,C.bd(B.cJ,5,"Medium Modal",B.A,x,new A.b8D(d),B.cJ,x),B.b1,C.bd(B.cJ,5,"Large Modal",B.A,x,new A.b8E(d),B.cJ,x),B.b1,C.bd(B.cJ,5,"Large Modal Widget",B.A,x,new A.b8F(d),B.cJ,x)],y.e),B.t,B.q,B.r,B.y)}}
+var z=a.updateTypes(["d(v)"])
+A.b8B.prototype={
+$0(){D.kA(F.zT,this.a,null,E.kS,null,null,!1,!1,!0,"Simple Modal")},
+$S:0}
+A.b8C.prototype={
+$0(){var x=this.a
+D.kA(F.zT,x,null,E.kS,new A.b8z(x),new A.b8A(x),!0,!1,!0,"Modal with footer")},
+$S:0}
+A.b8z.prototype={
+$0(){C.aoB(this.a,"Canceled",null)},
+$S:0}
+A.b8A.prototype={
+$0(){C.aoB(this.a,"Success",B.eV)},
+$S:0}
+A.b8D.prototype={
+$0(){D.kA(F.zT,this.a,null,E.eK,null,null,!1,!1,!0,"Medium Modal")},
+$S:0}
+A.b8E.prototype={
+$0(){D.kA(F.zT,this.a,null,E.Fa,null,null,!1,!1,!0,"Large Modal")},
+$S:0}
+A.b8F.prototype={
+$0(){var x=null,w=this.a
+D.kA(new C.B(x,C.b4(w,x,y.h).w.a.b*0.8,x,x),w,x,E.Fa,x,x,!1,!1,!0,"Large Modal")},
+$S:0};(function installTearOffs(){var x=a._instance_1u
+x(A.z8.prototype,"gfH","ds",0)})();(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(A.z8,C.eU)
+w(C.eA,[A.b8B,A.b8C,A.b8z,A.b8A,A.b8D,A.b8E,A.b8F])})()
+C.dN(b.typeUniverse,JSON.parse('{"z8":{"Q":[],"d":[]}}'))
+var y={e:C.T("l<d>"),h:C.T("fi")};(function constants(){F.zT=new C.aO("FlareLine is a free and open-source admin dashboard template built on Flutter providing developers with everything they need to create a feature-rich and data-driven: back-end, dashboard, or admin panel solution for any sort of web/mac/windows/android/iOS project.",null,null,null,null,null,null,null,null,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_155",e:"endPart",h:b})})($__dart_deferred_initializers__,"o6sMqIZxymiOzpudJqLWdT4GJek=");
+a.eventLog.push({p:"main.dart.js_155",e:"endPart",h:b})})($__dart_deferred_initializers__,"yJYMDYmkWgdc5e01V1qWLYw9DsY=");

@@ -4,7 +4,7 @@ a[b][c].push({p:"main.dart.js_60",e:"beginPart"})})(self,"$__dart_deferred_initi
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C
 A=c[0]
 B=c[2]
-C=c[94]
-var z=a.updateTypes([]);(function constants(){C.i4=new A.T(!0,null,null,null,null,null,18,B.ak,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
+C=c[93]
+var z=a.updateTypes([]);(function constants(){C.jV=new A.T(!0,null,null,null,null,null,18,B.ag,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_60",e:"endPart",h:b})})($__dart_deferred_initializers__,"WkOar8ocsjgl41LG7AfRjTaJ4Hw=");
+a.eventLog.push({p:"main.dart.js_60",e:"endPart",h:b})})($__dart_deferred_initializers__,"VGnnaTGTfOWZyRipCG0tC19kNZs=");

@@ -1,60 +1,20 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_79",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,D,B={
-cj_(){return new B.xM(null)},
-xM:function xM(d){this.a=d},
-acd:function acd(d,e){this.c=d
-this.d=$
-this.a=e},
-Hv:function Hv(d,e){var _=this
-_.z=null
-_.a=d
-_.b=!1
-_.d=null
-_.U$=0
-_.T$=e
-_.aK$=_.aa$=0}},C
-A=c[0]
-D=c[2]
-B=a.updateHolder(c[18],B)
-C=c[121]
-B.xM.prototype={
-gU6(){return!1},
-fR(d){return"Contacts"},
-du(d){return new B.acd(null,null)}}
-B.acd.prototype={
-q4(d){var x=$.nd().$0(),w=$.nf().$0(),v=$.ne().$0(),u=new A.l8(x,w,v),t=x.ek()
-u.a=A.fe(A.a([t,w.ek(),v.ek()],y.i),y.v)
-x=new B.Hv(u,$.ap())
-x.nv(d)
-return x}}
-B.Hv.prototype={
-gzz(){return"ContactsViewModel"},
-i9(d){return this.btf(d)},
-btf(d){var x=0,w=A.O(y.b),v=this,u,t,s,r,q,p,o,n
-var $async$i9=A.K(function(e,f){if(e===1)return A.L(f,w)
-while(true)switch(x){case 0:n=[]
-for(u=y.k,t=y.z,s=y.w,r=0;r<50;++r){q=A.a([],u)
-p=A.a([],t)
-o=A.b(["contactName","Tom"+r,"lastContacted","1 Feb, 2020","company","Starbucks","contact","nathan.roberts@example.com","phone","(201) 555-0124","leadScore","Online store"],s,s)
-p.push(v.N3("contactName",o))
-p.push(v.N3("lastContacted",o))
-p.push(v.N3("company",o))
-p.push(v.N3("contact",o))
-p.push(v.a93("leadScore",o,"tag"))
-q.push(p)
-D.e.F(n,q)}v.z=A.bZn(A.b(["headers",C.aS2,"rows",n],s,y.b))
-v.am()
-return A.M(null,w)}})
-return A.N($async$i9,w)}}
-var z=a.updateTypes(["d(v)"]);(function installTearOffs(){var x=a._instance_1u
-x(B.xM.prototype,"gfH","du",0)})();(function inheritance(){var x=a.inherit
-x(B.xM,A.eT)
-x(B.acd,A.nY)
-x(B.Hv,A.h_)})()
-A.dq(b.typeUniverse,JSON.parse('{"Hv":{"h_":[],"b0":[],"ar":[]},"xM":{"I":[],"d":[]},"acd":{"dY":["Hv"],"I":[],"d":[],"dY.0":"Hv"}}'))
-var y={i:A.S("l<at<~>>"),k:A.S("l<x<aw<e,@>>>"),z:A.S("l<aw<e,@>>"),w:A.S("e"),b:A.S("@"),v:A.S("~")};(function constants(){var x=a.makeConstList
-C.aS2=A.a(x(["Contact Name","Last Contacted","Company","Contact","Lead Score"]),A.S("l<e>"))})()};
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A
+B=c[0]
+C=c[2]
+A=c[75]
+var z=a.updateTypes([]);(function constants(){A.j_=new B.q(1,0.9529411764705882,0.8980392156862745,0.9607843137254902,C.u)
+A.ake=new B.q(1,0.8823529411764706,0.7450980392156863,0.9058823529411765,C.u)
+A.alx=new B.q(1,0.807843137254902,0.5764705882352941,0.8470588235294118,C.u)
+A.ahv=new B.q(1,0.7294117647058823,0.40784313725490196,0.7843137254901961,C.u)
+A.akw=new B.q(1,0.6705882352941176,0.2784313725490196,0.7372549019607844,C.u)
+A.an2=new B.q(1,0.5568627450980392,0.1411764705882353,0.6666666666666666,C.u)
+A.al_=new B.q(1,0.4823529411764706,0.12156862745098039,0.6352941176470588,C.u)
+A.alZ=new B.q(1,0.41568627450980394,0.10588235294117647,0.6039215686274509,C.u)
+A.an6=new B.q(1,0.2901960784313726,0.0784313725490196,0.5490196078431373,C.u)
+A.bqk=new B.bQ([50,A.j_,100,A.ake,200,A.alx,300,A.ahv,400,A.akw,500,C.JD,600,A.an2,700,A.al_,800,A.alZ,900,A.an6],B.T("bQ<j,q>"))
+A.mP=new B.jA(A.bqk,1,0.611764705882353,0.15294117647058825,0.6901960784313725,C.u)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_79",e:"endPart",h:b})})($__dart_deferred_initializers__,"DlLahPKQ1sIYF4PD8fz/sr4XN+o=");
+a.eventLog.push({p:"main.dart.js_79",e:"endPart",h:b})})($__dart_deferred_initializers__,"tCuJ3/3drpNwXzS443c6eS8iRzw=");
